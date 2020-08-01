@@ -1,2 +1,2 @@
 # portfolio
-Nathan's portfolio site
+Nathan's site for showing off his work.  
